@@ -19,7 +19,7 @@ The test video has been downloaded from:
 
 https://www.pexels.com/video/road-trip-4434242/
 
-Where there are more videos that can be used for testing (changing the assignment instruction 18)
+Where there are more videos (free download) that can be used for testing (changing the assignment instruction 18)
 
 Observations.
 
